@@ -10,8 +10,8 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Hand-crafted with love by{' '}
-          <a href="https://twitter.com/yinkakun">Yinka Adedire</a>
+          본 블로그는 gatsby로 제작되었습니다.{' '}
+          <p style={{fontSize:"10px"}}>Hye young Lee</p>
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
