@@ -1,28 +1,20 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `softBUD`,
     author: {
-      name: `Yinka Adedire`,
+      name: `Hye young Lee`,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    siteUrl: `https://softbud.github.io`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `softBUD`,
     },
     socialLinks: [
       {
         name: "github",
-        url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
+        url: "https://github.com/softBUD",
       },
     ],
   },

@@ -110,7 +110,7 @@ const ContactForm = () => {
             )}
           </FormFeedbackWrapper>
 
-          <FormButton type="submit">Send Message</FormButton>
+          <FormButton type="submit" disabled>Working...</FormButton>
         </NetlifyFormComponent>
       </NetlifyFormProvider>
     </FormWrapper>
