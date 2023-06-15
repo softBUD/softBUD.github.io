@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `softBUD`,
+    title: `Hye Young
+    `,
     author: {
-      name: `Hye young Lee`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Hye Young Lee`,
+      summary: `Junior Frontend Developer Hye young Lee`,
     },
-    openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    openGraphImage: `./posts/images/codingcat.jpg`,
+    description: `프론트 개발자 이혜영의 블로그 입니다.`,
     siteUrl: `https://softbud.github.io`,
     social: {
       twitter: `softBUD`,
