@@ -1,12 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[프론트 개발자 이혜영의 블로그 입니다.]]></description><link>https://softbud.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 15 Jun 2023 11:26:16 GMT</lastBuildDate><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Contact Me.]]></description><link>https://softbud.github.io/contact/</link><guid isPermaLink="false">https://softbud.github.io/contact/</guid><content:encoded>&lt;h1&gt;Contact Me.&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[프론트 개발자 이혜영의 블로그 입니다.]]></description><link>https://softbud.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Jun 2023 11:38:57 GMT</lastBuildDate><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Contact Me.]]></description><link>https://softbud.github.io/contact/</link><guid isPermaLink="false">https://softbud.github.io/contact/</guid><content:encoded>&lt;h1&gt;Contact Me.&lt;/h1&gt;
 &lt;br/&gt;
 메일 chevimpala21@gmail.com 로 발송 부탁드립니다.
 &lt;br/&gt;
-폼 기능은 구현 중입니다 :D</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m softBUD]]></description><link>https://softbud.github.io/about/</link><guid isPermaLink="false">https://softbud.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m softBUD&lt;/h1&gt;
+폼 기능은 구현 중입니다 :D</content:encoded></item><item><title><![CDATA[softBUD.io]]></title><link>https://softbud.github.io/</link><guid isPermaLink="false">https://softbud.github.io/</guid><content:encoded></content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m softBUD]]></description><link>https://softbud.github.io/about/</link><guid isPermaLink="false">https://softbud.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m softBUD&lt;/h1&gt;
 &lt;br/&gt;
 주니어 프론트 개발자 이혜영입니다.
 저의 개발 지식의 조각들과 일상을 공유하고 있습니다.
-작은 지식과 경험들을 쌓아 미래의 나와 다수의 개발자에게 도움이 되고자합니다.</content:encoded></item><item><title><![CDATA[softBUD.io]]></title><link>https://softbud.github.io/</link><guid isPermaLink="false">https://softbud.github.io/</guid><content:encoded></content:encoded></item><item><title><![CDATA[제로베이스 프론트엔드 스쿨을 시작했습니다.]]></title><description><![CDATA[2년차를 시작하며 
+작은 지식과 경험들을 쌓아 미래의 나와 다수의 개발자에게 도움이 되고자합니다.</content:encoded></item><item><title><![CDATA[내가 생각하는 프론트 개발자는]]></title><description><![CDATA[frontend-and-backend…]]></description><link>https://softbud.github.io/blog/frontend-developer/</link><guid isPermaLink="false">https://softbud.github.io/blog/frontend-developer/</guid><pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;br/&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.dribbble.com/users/1463678/screenshots/3264921/full-stack-dribbble.png?compress=1&amp;#x26;resize=800x600&amp;#x26;vertical=center&quot; alt=&quot;frontend-and-backend&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;프론트엔드 개발자란?&lt;/h2&gt;
+&lt;br/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;구글에서 찾아보면 이미 프론트엔드와 백엔드의 차이에서 설명하는 글들은 무수히 많다.
+굳이 그런 지식들에 대해 서술하기 보다, 내가 생각한 프론트 개발자라는 포지션에 대한 이야기를 하고싶다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;br&gt;
+1년간 재직해 본 짧은 경험치에 의하면, 프론트 개발자에 대해 많은 개발자들이 이야기하는 공통적인 결론이나 선입견들이 있는 것 같다. 프론트 개발자는 결국 풀스택을 지향해야하며 백엔드 지식 없이는 개발자로 살아남을 수 없다는 결론이다.
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+개인적으로는 이 소견들은 &lt;span style=&quot;color:orange&quot;&gt;반은 맞고 반은 틀리다고 생각한다.&lt;/span&gt; 무엇이든간에 case by case는 존재한다. 주로 이러한 의견들을 제시하는 사람들은 연차가 좀 있는 백엔드 개발자인 경우가 많았는데, 사람은 겪어 온 경험과 틀 안에서만 결론을 내릴 수 밖에 없기 때문에, 그들이 겪어 온 웹 개발자 인력 시장에서는 주로 JAVA와 스프링 프레임워크 (특히나 공공 SI 프로젝트인 경우)를 해야지만 개발자로 살아남을 수 있었고, 앞으로도 그럴 것이라는 결론으로 느껴진다.
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h2&gt;우리는 결국 웹개발자다.&lt;/h2&gt;
+&lt;br/&gt;
+웹 개발자로서 풀스택을 지향해야한다는 사실에는 일부 동의한다. 결국은 웹 서비스를 만든다는 측면에서는 양 분야의 지식은 모두 개발하는 데에 큰 도움이 될 것이다. 또 이직 시에 기술스택으로도 어필이 될 것이다.
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+특히나 요즘은 더욱 풀스택으로 개발하기가 좋아지고 편해지고 있다. 특히나 자바스크립트에 익숙한 개발자들의 경우에도 Node로 백엔드 개발이 가능해진지 오래다. React 프레임워크 중 특히나 최근에 대세로 자리잡고있는 Next.js의 경우에도 풀스택으로 간단한 서비스를 개발할 수 있다.
+&lt;br/&gt;
+다만 그 방향성이 JAVA나 전혀 새로운 무언가일 필요는 꼭 없다고 생각한다. 그리고 혹시나 개발 시장에서 지양되고 있는 기술 스택을 회사 업무로 받아들여야 한다면, 본인이 이미 갖고있는 프론트의 스택을 잊지 않고 잘 활용할 수 있도록 개인공부 시간을 할애하는 것이 더좋다. 
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h2&gt;그럼에도 불구하고 우선순위는 있다.&lt;/h2&gt;
+&lt;br/&gt;
+익숙한 언어에서부터 시작하여 본인의 저변을 넓혀나가도 충분하다고 생각하고, 당장에 주니어 개발자라면 프론트엔드의 많은 영역을 공부하는 데에만 힘써도 충분히 공부할 것들이 많다.
+일단 본인이 &lt;span style=&quot;color:orange&quot;&gt;&apos;프론트 개발자&apos;&lt;/span&gt;라면, 웹에서 canvas로 그림을 그린다던지, 3D를 구현한다던지, 요즘 뜨는 AI를 활용한 서비스를 만들어본다던지 웹에서 구현할 수 있는 모든 것에 전문가가 되어보는 것도 좋다고 생각한다.
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;br/&gt;
+나만해도 제로베이스 수강이 끝나더라도 해보고 싶은 것들이 잔뜩 쌓여있다. 백엔드에 대한 지식은 그것들을 쌓은 차후에 해도 늦지 않다고 생각한다. 이 글은 프론트엔드 개발자로서의 나에 대한 다짐이기도 하다.</content:encoded></item><item><title><![CDATA[제로베이스 프론트엔드 스쿨을 시작했습니다.]]></title><description><![CDATA[2년차를 시작하며 
  텅텅비어버린 저의 깃 이력 부트캠프를 수강한 계기 마무리]]></description><link>https://softbud.github.io/blog/zerobase-start/</link><guid isPermaLink="false">https://softbud.github.io/blog/zerobase-start/</guid><pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;2년차를 시작하며&lt;/h2&gt;
 &lt;br/&gt;
 &lt;br/&gt;
